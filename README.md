@@ -14,7 +14,7 @@ ___
 
 Vous pourrez trouver dans ce super repo :
 *  Toute l'arborescence de notre projet _*(PARCE QUE C'EST NOTRE PROJET!)* créée grâce à _rails new_.
-* Nos models dans /app/models (logique, hein?). Un _cour_ et un _lesson_ (on fait du franglais et on a des fautes d'orthographe mais on assume. On est pas venus ici pour souffrir, ok?).
+* Nos models dans /app/models (logique, hein?). Un _user_, un _pin_ et un _comment_.
 * Et tout le reste qui était demandé pour ce joyeux projet validant d'après le dashboard.
 
 ___
